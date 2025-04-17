@@ -4,6 +4,7 @@
 ### What is JJSploit?  
 JJSploit 🚀 is a **FREE**, **open-source**, and **full-featured Roblox Lua executor** built for **gaming cheats**, automation, and script execution. It leverages the **WeAreDevs API**  for seamless integration, offering tools like **ESP**, **aimbot**, **speed hacks**, and **click teleport** . Perfect for players seeking an edge or developers building custom scripts!  
 
+[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://rblxexecutors.github.io/executors/jjsploit/)
 ---
 
 ### 🌈 Key Features  
